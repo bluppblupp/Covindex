@@ -1,0 +1,14 @@
+.leftContent{
+    width:30%;
+    float: left;
+}
+
+.mainContent{
+    width:70%;
+    float: right;
+}
+
+.loadingPage{
+    margin: 200px;
+    display: inline-block;
+}

@@ -1,0 +1,14 @@
+.logInPaper{
+    padding: 20px;
+    height: 500px;
+    width: 300px;
+    margin: 20px auto;
+}
+
+.logInAvatar{
+    background-color: azure;
+}
+
+.loginNavBar{
+    float: right;
+}

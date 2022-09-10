@@ -1,0 +1,18 @@
+.map-country{
+    fill: gray;
+    outline: none
+}
+
+.map-country:hover{
+    fill: black;
+    outline:none
+}
+
+.map-country:active{
+    fill: red;
+    outline: none
+}
+
+.map{
+    outline: none
+}

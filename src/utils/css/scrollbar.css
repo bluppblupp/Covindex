@@ -1,0 +1,13 @@
+
+.scrollBar {
+    height: 100vh;
+    overflow: hidden;
+    overflow-y: scroll;
+    margin: 0;
+    -ms-overflow-style: none; 
+    scrollbar-width: none; 
+  }
+  
+  .scrollBar::-webkit-scrollbar {
+    display: none;
+  }
